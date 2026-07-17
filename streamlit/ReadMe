@@ -1,0 +1,4 @@
+Makesure to install streamlit before executing these code
+      pip install streamlit
+Execute each file as
+      streamlit run p1.py
